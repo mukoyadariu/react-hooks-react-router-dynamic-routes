@@ -18,7 +18,7 @@ function App() {
           <MoviesPage movies={movies} />
         </Route>
         <Route exact path="/">
-          <div>Home</div>
+          <div>homes</div>
         </Route>
       </Switch>
     </div>
